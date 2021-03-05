@@ -1,0 +1,34 @@
+.jumbotron-hero {
+    /* Choisis la hauteur ici */
+    height: 500px;
+  
+    /* Tu lui donnes une image de background */
+    background-image: url("travel1.jpg");
+  
+    /* Centre l'image et la met bien sur tous les écrans */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:80%;
+  }
+.navbar
+ {
+    font-size:large; 
+    font-family:'oswald';
+    src: url(Oswald-Light.ttf);
+ }
+.body
+{
+    font-size:medium; 
+    font-family:'montserrat';
+    src: url(Montserrat-Light.ttf);
+ }
+
+ .btn
+ {
+    border-radius: 20px;
+    background-color: seashell;
+    border-color: seashell;
+    color: black;
+ }
+
